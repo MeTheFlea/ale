@@ -1,3 +1,6 @@
+# Changes in this Fork
+* Reverted [this commit](https://github.com/dense-analysis/ale/commit/25b572b3bf3cc0229ed836eb3fa80c4c74f2c247) because I wanted the first completion menu item to be auto-selected. I wrote [this](https://github.com/dense-analysis/ale/issues/3433) issue in hopes of finding a proper solution.
+ 
 # Asynchronous Lint Engine [![Travis CI Build Status](https://travis-ci.com/dense-analysis/ale.svg?branch=master)](https://travis-ci.com/dense-analysis/ale) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/r0ef1xu8xjmik58d/branch/master?svg=true)](https://ci.appveyor.com/project/dense-analysis/ale) [![Join the chat at https://gitter.im/vim-ale/Lobby](https://badges.gitter.im/vim-ale/Lobby.svg)](https://gitter.im/vim-ale/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
